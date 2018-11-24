@@ -1,0 +1,878 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 396,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tmilOVyx7AYC",
+      "etag": "Rt3wGP4Df7U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tmilOVyx7AYC",
+      "volumeInfo": {
+        "title": "Funding Ranking 2006",
+        "subtitle": "DFG Awards and Other Basic Data on Publicly Funded Research",
+        "authors": [
+          "Deutsche Forschungsgemeinschaft (DFG)"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2007-06-27",
+        "description": "Following on from previous publications in 1997, 2000 and 2003, the Deutsche Forschungsgemeinschaft (German Research Foundation) presents its fourth \"Funding Ranking\", an overview of the distribution of awards to universities and non-university research institutions in Germany. The scope of the report has increased considerably compared to previous editions. Alongside the report's central indicator - DFG awards per individual research institution - the document also covers a wide range of additional indicators regarding publicly financed research in one of the world's leading industrial countries. For the first time, the report also includes information on R&D funding for selected federal programmes, for thematic priorities within the European Union's Sixth Framework Programme, and for collaborative industrial research funded by the German Federation of Industrial Cooperative Research Associations \"Otto von Guericke\". The third party funding indicators, which each depict individual aspects of publicly financed research, represent in total approximately 80 percent of all public third party funding for university research.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783527611171"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3527611177"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tmilOVyx7AYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tmilOVyx7AYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=tmilOVyx7AYC&printsec=frontcover&dq=dfg&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tmilOVyx7AYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-tmilOVyx7AYC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6161.86,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 6161.86,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tmilOVyx7AYC&rdid=book-tmilOVyx7AYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6.16186E9,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 6.16186E9,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Funding_Ranking_2006-sample-pdf.acsm?id=tmilOVyx7AYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tmilOVyx7AYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Following on from previous publications in 1997, 2000 and 2003, the Deutsche Forschungsgemeinschaft (German Research Foundation) presents its fourth &quot;Funding Ranking&quot;, an overview of the distribution of awards to universities and non ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T-S1BQAAQBAJ",
+      "etag": "bchBcZaIPjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T-S1BQAAQBAJ",
+      "volumeInfo": {
+        "title": "The DFG: Short Ramblings",
+        "subtitle": "short handed collection",
+        "authors": [
+          "The DFG"
+        ],
+        "publisher": "Marc Anthony Clarke Jackson",
+        "publishedDate": "2014-12-09",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T-S1BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T-S1BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=T-S1BQAAQBAJ&pg=PA34&dq=dfg&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=T-S1BQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-T-S1BQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 71.13,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 64.02,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=T-S1BQAAQBAJ&rdid=book-T-S1BQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7.113E7,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 6.402E7,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_DFG_Short_Ramblings-sample-pdf.acsm?id=T-S1BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T-S1BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "short handed collection The \u003cb\u003eDFG\u003c/b\u003e The \u003cb\u003eDFG\u003c/b\u003e. Thank you for reading more mini \u003cbr\u003e\nworks from the \u003cb\u003eDFG\u003c/b\u003e If you want to contact him or find out more about the work he \u003cbr\u003e\ndoes.... he is available on the following means of communication Twitter&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fkq2BpzRCVgC",
+      "etag": "rtFDmISIweE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fkq2BpzRCVgC",
+      "volumeInfo": {
+        "title": "Data Structures and Efficient Algorithms",
+        "subtitle": "Final Report on the DFG Special Joint Initiative",
+        "authors": [
+          "Burkhard Monien",
+          "Thomas Ottmann"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "1992-05-20",
+        "description": "Myocarditis and idiopathic dilated cardiomyopathy are being increasingly recognized as important causes of heart disease and heart failure. Immunological mechanisms have long been suspected as playing a role in thesediseases but direct evidence has been lacking. Recently, animal models have be- come available, in which myocarditis can be induced either by infection with cardiotropic viruses or by autoimmuniza- tion with heart-specific antigens. This book presents and analyzes the latest information obtained from experimental models, relating it to the practical problems of diagnosis and treatment of myocarditis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3540554882"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540554882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 389,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fkq2BpzRCVgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fkq2BpzRCVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Fkq2BpzRCVgC&printsec=frontcover&dq=dfg&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Fkq2BpzRCVgC&dq=dfg&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Efficient_Algorithms.html?hl=&id=Fkq2BpzRCVgC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Data_Structures_and_Efficient_Algorithms-sample-pdf.acsm?id=Fkq2BpzRCVgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fkq2BpzRCVgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book presents and analyzes the latest information obtained from experimental models, relating it to the practical problems of diagnosis and treatment of myocarditis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wv1sQ2oc5sgC",
+      "etag": "JTmsZXBcTJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wv1sQ2oc5sgC",
+      "volumeInfo": {
+        "title": "Waveguide Nonlinear-Optic Devices",
+        "authors": [
+          "Toshiaki Suhara",
+          "Masatoshi Fujimura"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2003-06-23",
+        "description": "The most comprehensive book on waveguide nonlinear optic devices, this volume presents a systematic description of the NLO field, with an emphasis on devices that use ferroelectric waveguides. It ranges from an introduction to the concepts of waveguides to the most recent experimental results.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3540015272"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540015277"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wv1sQ2oc5sgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wv1sQ2oc5sgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Wv1sQ2oc5sgC&pg=PA245&dq=dfg&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Wv1sQ2oc5sgC&dq=dfg&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Waveguide_Nonlinear_Optic_Devices.html?hl=&id=Wv1sQ2oc5sgC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Waveguide_Nonlinear_Optic_Devices-sample-pdf.acsm?id=Wv1sQ2oc5sgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wv1sQ2oc5sgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An integrated device having a 30 mm QPM section in a waveguide of noncritical \u003cbr\u003e\nphase matching width was fabricated, a normalized conversion efficiency of 270\u003cbr\u003e\n%/W was obtained in a SHG test, a \u003cb\u003eDFG\u003c/b\u003e wavelength conversion of -7 dB&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-bSr4omC0zwC",
+      "etag": "Hq8+RjvSXJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-bSr4omC0zwC",
+      "volumeInfo": {
+        "title": "Regulated Chemicals Directory 1994",
+        "authors": [
+          "ChemADVISOR Inc. Staff"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2012-12-06",
+        "description": "The Regulated Chemicals Directory\"lM is meant to be a convenient source of information for everyone who needs to keep up-to-date regarding the regulations and recommendations that pertain to chemical substances. The RCDTM is designed to be the first reference book to consult when beginning compliance efforts. Every regulatory or advisory list used in the RCDTM is keyed to its source, to help readers who need more detailed information on regulations, recommendations, or guidelines readily locate source documents. Some organizations now center their compliance efforts on computerized information stored in cross-referenced databases. A unique feature of the RCDTM is the availability of an electronic version suitable for use on IBM-compatible personal computers, download onto mainframes and CD-ROM players. Both the print and electronic versions are updated with the same timeliness. For more information on the electronic versions of the Regulated Chemicals DirectoryTM, contact Chapman & Hall directly (One Penn Plaza, New York, NY 10119, fax-212-564-1505). Many companies working on product development need information on what may be regulated in the future. The RCDTM provides selected information on pending regulations and in-progress testing lists, which can provide a starting place for tracking future regulatory considerations. Information for the RCDTM is continually gathered and updated. Suggestions from readers for information that should be added to the RCDTM or for other ways to improve the book are welcomed by Chapman & Hall. - Patricia L. Dsida, Pres. ChemADVISOR® , Inc. ix Part A. Chemical Lists and Indexes Section 1.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789401106894"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9401106894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1714,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-bSr4omC0zwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-bSr4omC0zwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=-bSr4omC0zwC&pg=PA1018&dq=dfg&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-bSr4omC0zwC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book--bSr4omC0zwC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6314.23,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 6314.23,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-bSr4omC0zwC&rdid=book--bSr4omC0zwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6.31423E9,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 6.31423E9,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Regulated_Chemicals_Directory_1994-sample-pdf.acsm?id=-bSr4omC0zwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-bSr4omC0zwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "TIN INTERNATIONAL LISTS German (\u003cb\u003eDFG\u003c/b\u003e) - MAK Values total dust: 0 1 mg/m3 \u003cbr\u003e\nMAK (Listed under Tin compounds organic) German (\u003cb\u003eDFG\u003c/b\u003e) - Peak Limitations 2x \u003cbr\u003e\nnormal MAK (30 min, average value), don&#39;t exceed 4 times during shift (Listed&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oMUTAQAAMAAJ",
+      "etag": "jAc4SkSK6w8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oMUTAQAAMAAJ",
+      "volumeInfo": {
+        "title": "DFG.",
+        "authors": [
+          "Deutsche Forschungsgemeinschaft"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015019063869"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Learned institutions and societies"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oMUTAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oMUTAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.ru/books?id=oMUTAQAAMAAJ&q=dfg&dq=dfg&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=oMUTAQAAMAAJ&dq=dfg&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DFG.html?hl=&id=oMUTAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oMUTAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jZ7fDgAAQBAJ",
+      "etag": "LEWkDnRC15Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jZ7fDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Mergers and Acquisitions",
+        "subtitle": "Cases, Materials, and Problems",
+        "authors": [
+          "Therese Maynard"
+        ],
+        "publisher": "Wolters Kluwer Law & Business",
+        "publishedDate": "2014-10-30",
+        "description": "Mergers and Acquisitions: Cases and Materials--known for its cases, references to state and federal statutes, and ample problems--underscores the importance of modern fiduciary duty law. Its real-world, skills-based approach to transactions from Main Street to Wall Street emphasizes the ethical responsibilities of both lawyers and corporate managers who are responsible for implementing those transactions. Notes in the Appendix demonstrate the necessity of understanding where the money (or whatever serves as the acquisition consideration) is going. The Third Edition features a new chapter on \"Going Private\" (eliminating all public shareholders,) and focuses on changes in Delaware laws. More note materials help students put cases and developments into context, particularly on structuring acquisition transactions and fiduciary duty law. New cases discussed include Vantagepoint Venture Partners 1996 v. Examen, Inc. and En re: Topps Company Shareholders-- Litigation. New cases replace some older ones and several cases are more tightly edited. The text reflects all recent securities law and rule changes. Features: cases, references to state and federal statutes, and ample problems real-world, skills-based approach covers transactions from Main Street to Wall Street emphasizes the ethical responsibilities of both lawyers and corporate managers responsible for implementing transactions underscores the importance of modern fiduciary duty law demonstrates the importance of understanding where the money (or acquisition consideration) is going diagrams in the Appendix for the student and teacher to refer to throughout the semester alternative approaches to teaching suggestions for shortening reading assignments topics to be deleted to accommodate a two- or three-credit course sample syllabi detailed analysis and answers to all problems in the casebook author-hosted website PowerPoint slides of all diagrams included in the Appendix suggestions for using each slide answers to all problems and questions in the casebook updates and links to related materials ideas for integrating current events into classroom discussion Thoroughly updated, the revised Third Edition presents: a new chapter on \"Going Private\" (eliminating all public shareholders) focus on changes in Delaware laws more note materials to put cases and developments into context, particularly on structuring acquisition transactions and fiduciary duty law more note material associated with the problems new case discussions Vantagepoint Venture Partners 1996 v. Examen, Inc. En re: Topps Company Shareholders' litigation",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781454818960"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1454818964"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1080,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jZ7fDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jZ7fDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=jZ7fDgAAQBAJ&pg=PT357&dq=dfg&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jZ7fDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-jZ7fDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17812.37,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 17812.37,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jZ7fDgAAQBAJ&rdid=book-jZ7fDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.781237E10,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.781237E10,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Mergers_and_Acquisitions-sample-epub.acsm?id=jZ7fDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Mergers_and_Acquisitions-sample-pdf.acsm?id=jZ7fDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jZ7fDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "PROBLEMS AT \u003cb\u003eDFG\u003c/b\u003e FOODS BEGIN TO SURFACE In 1998, as part of its strategy \u003cbr\u003e\nto grow IBP&#39;s higher-margin food processing business, IBP management \u003cbr\u003e\npurchased a specialty hors d&#39;oeuvres, kosher foods, and “airline food” business \u003cbr\u003e\nfor $91&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U7szDwAAQBAJ",
+      "etag": "4gLP4hyAeUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U7szDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Thermal Effects in Complex Machining Processes",
+        "subtitle": "Final Report of the DFG Priority Programme 1480",
+        "authors": [
+          "D Biermann",
+          "F Hollmann"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2017-08-31",
+        "description": "This contributed volume contains the research results of the priority programme (PP) 1480 “Modelling, Simulation and Compensation of Thermal Effects for Complex Machining Processes\", funded by the German Research Society (DFG). The topical focus of this programme is the simulation-based prediction and compensation of thermally induced workpiece deviations and subsurface damage effects. The approach to the topic is genuinely interdisciplinary, covering all relevant machining operations such as turning, milling, drilling and grinding. The target audience primarily comprises research experts and practitioners in the field of production engineering, but the book may also be beneficial for graduate students.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319571201"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3319571206"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 403,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U7szDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U7szDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=U7szDwAAQBAJ&printsec=frontcover&dq=dfg&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=U7szDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-U7szDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11628.53,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 11628.53,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=U7szDwAAQBAJ&rdid=book-U7szDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.162853E10,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.162853E10,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Thermal_Effects_in_Complex_Machining_Pro-sample-epub.acsm?id=U7szDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Thermal_Effects_in_Complex_Machining_Pro-sample-pdf.acsm?id=U7szDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U7szDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This contributed volume contains the research results of the priority programme (PP) 1480 “Modelling, Simulation and Compensation of Thermal Effects for Complex Machining Processes&quot;, funded by the German Research Society (DFG)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZoKl-usYnFMC",
+      "etag": "k3LSuomc5W8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZoKl-usYnFMC",
+      "volumeInfo": {
+        "title": "Low-Power High-Level Synthesis for Nanoscale CMOS Circuits",
+        "authors": [
+          "Saraju P. Mohanty",
+          "Nagarajan Ranganathan",
+          "Elias Kougianos",
+          "Priyardarsan Patra"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2008-05-31",
+        "description": "This self-contained book addresses the need for analysis, characterization, estimation, and optimization of the various forms of power dissipation in the presence of process variations of nano-CMOS technologies. The authors show very large-scale integration (VLSI) researchers and engineers how to minimize the different types of power consumption of digital circuits. The material deals primarily with high-level (architectural or behavioral) energy dissipation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780387764740"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0387764747"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZoKl-usYnFMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZoKl-usYnFMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ZoKl-usYnFMC&pg=PA14&dq=dfg&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZoKl-usYnFMC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ZoKl-usYnFMC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11628.53,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 11628.53,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZoKl-usYnFMC&rdid=book-ZoKl-usYnFMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.162853E10,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.162853E10,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Low_Power_High_Level_Synthesis_for_Nanos-sample-pdf.acsm?id=ZoKl-usYnFMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZoKl-usYnFMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "There are many such intermediate representations including \u003cb\u003eDFG\u003c/b\u003e, control flow \u003cbr\u003e\ngraph (CFG) and control data flow graph (CDFG) [166, 250, 299, 43, 307, 30]. \u003cbr\u003e\nEach of these has its own advantages; for example, although the \u003cb\u003eDFG\u003c/b\u003e is simple, \u003cbr\u003e\nthe&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iZHUDQAAQBAJ",
+      "etag": "SgpUf1Cnmyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iZHUDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Comprehensive Medicinal Chemistry III",
+        "publisher": "Elsevier",
+        "publishedDate": "2017-06-03",
+        "description": "Comprehensive Medicinal Chemistry III provides a contemporary and forward-looking critical analysis and summary of recent developments, emerging trends, and recently identified new areas where medicinal chemistry is having an impact. The discipline of medicinal chemistry continues to evolve as it adapts to new opportunities and strives to solve new challenges. These include drug targeting, biomolecular therapeutics, development of chemical biology tools, data collection and analysis, in silico models as predictors for biological properties, identification and validation of new targets, approaches to quantify target engagement, new methods for synthesis of drug candidates such as green chemistry, development of novel scaffolds for drug discovery, and the role of regulatory agencies in drug discovery. Reviews the strategies, technologies, principles, and applications of modern medicinal chemistry Provides a global and current perspective of today's drug discovery process and discusses the major therapeutic classes and targets Includes a unique collection of case studies and personal assays reviewing the discovery and development of key drugs",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128032015"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128032014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 4536,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iZHUDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iZHUDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=iZHUDQAAQBAJ&pg=RA5-PA421&dq=dfg&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iZHUDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-iZHUDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 339014.0,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 339014.0,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iZHUDQAAQBAJ&rdid=book-iZHUDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.39014E11,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.39014E11,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Comprehensive_Medicinal_Chemistry_III-sample-pdf.acsm?id=iZHUDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iZHUDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The reports of the oral p38 inhibitor BIRB-796105 and, most importantly, its (then) \u003cbr\u003e\nnovel mode of binding to p38 in a \u003cb\u003eDFG\u003c/b\u003e-out conformation (Fig. 14), resulting in a \u003cbr\u003e\nslow onset/slow offset binding profile, suggested that leveraging this feature&nbsp;..."
+      }
+    }
+  ]
+}

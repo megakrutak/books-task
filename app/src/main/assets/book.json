@@ -1,0 +1,102 @@
+{
+  "kind": "books#volume",
+  "id": "tmilOVyx7AYC",
+  "etag": "fGiBHzKhBxc",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/tmilOVyx7AYC",
+  "volumeInfo": {
+    "title": "Funding Ranking 2006",
+    "subtitle": "DFG Awards and Other Basic Data on Publicly Funded Research",
+    "authors": [
+      "Deutsche Forschungsgemeinschaft (DFG)"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2007-06-27",
+    "description": "Following on from previous publications in 1997, 2000 and 2003, the Deutsche Forschungsgemeinschaft (German Research Foundation) presents its fourth \"Funding Ranking\", an overview of the distribution of awards to universities and non-university research institutions in Germany. The scope of the report has increased considerably compared to previous editions. Alongside the report's central indicator - DFG awards per individual research institution - the document also covers a wide range of additional indicators regarding publicly financed research in one of the world's leading industrial countries.\u003cbr\u003eFor the first time, the report also includes information on R&D funding for selected federal programmes, for thematic priorities within the European Union's Sixth Framework Programme, and for collaborative industrial research funded by the German Federation of Industrial Cooperative Research Associations \"Otto von Guericke\". The third party funding indicators, which each depict individual aspects of publicly financed research, represent in total approximately 80 percent of all public third party funding for university research.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "3527611177"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9783527611171"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 182,
+    "printedPageCount": 185,
+    "dimensions": {
+      "height": "29.70 cm",
+      "width": "2.10 cm",
+      "thickness": "15.00 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Science / General"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.0.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=tmilOVyx7AYC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE732hq6I7w3hoTthz_Zihfw-O0tZMK95ExWTzcawlh7L_Hqw8fdy2FiNbYeCN-hPmIj6nP28PY9oTu1C__AhndNWRwCYRxsXvv8ul23tIt6TLR4XS1Hcz3hI40s82A2u_MuCNMPh&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=tmilOVyx7AYC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71zYy96C43VuPSyEeavgr-1TPOXszKd9Kk7k8SNL4Jg1NFaLHeGvEAYdyZ6Tld8-JmWM5Ds6TWYsh2nslIBwXhKS9092P86X0SARu1tUIUsUHHuPupQSpmg_nMoThGADNzxRKP6&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=tmilOVyx7AYC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73rmwnaPQufflcqoQf2OKoQ_VZ3vD2ysKCjpSkOK_s7s2ckXO3aQ7hN6_RjDZwhm_w6tYE1xk2i6njpCzP_Hhe2JcXNdHAVLULli_AwyrT3RoeJn_5nBWlVHY5fveCiiMTW1sPQ&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=tmilOVyx7AYC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72b1c9P-cBvcJKjOMl2XBXCTiIxdGxuTAl7j6nDQ0mMnExm8EgBp6LVhE3Lx6Sr7G0q2WTlqeuZT5h7A-I5IAseud87W6AsJ3ZRDfMCg6KE6l3GzpjXVU_7xrrJyiFmliy087yC&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.ru/books?id=tmilOVyx7AYC&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tmilOVyx7AYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tmilOVyx7AYC"
+  },
+  "saleInfo": {
+    "country": "RU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 6161.86,
+      "currencyCode": "RUB"
+    },
+    "retailPrice": {
+      "amount": 6161.86,
+      "currencyCode": "RUB"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tmilOVyx7AYC&rdid=book-tmilOVyx7AYC&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 6.16186E9,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amountInMicros": 6.16186E9,
+          "currencyCode": "RUB"
+        }
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "RU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.ru/books/download/Funding_Ranking_2006-sample-pdf.acsm?id=tmilOVyx7AYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tmilOVyx7AYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
