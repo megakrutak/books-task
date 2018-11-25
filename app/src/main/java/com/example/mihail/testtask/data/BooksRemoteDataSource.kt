@@ -7,8 +7,12 @@ import com.github.kittinunf.fuel.gson.gsonDeserializerOf
 
 class BooksRemoteDataSource (private val apiClient: BooksApiClient) : BooksDataSource {
 
-    override suspend fun volumes(q: String): BooksList {
-        return apiClient.get("/volumes", listOf("q" to q)).awaitObject(gsonDeserializerOf())
+    override suspend fun volumes(q: String, startIndex: Int, maxResults: Int): BooksList {
+        return apiClient.get("/volumes", listOf(
+                "q" to q,
+                "startIndex" to startIndex,
+                "maxResults" to maxResults
+        )).awaitObject(gsonDeserializerOf())
     }
 
     override suspend fun volumeDetail(id: String): Book {

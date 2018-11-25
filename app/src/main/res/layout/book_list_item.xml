@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="80dp">
+
+    <ImageView
+        android:id="@+id/bookImg"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        tools:src="@drawable/ic_launcher_foreground"
+        android:contentDescription="@string/app_name"
+        />
 
     <TextView
-        android:layout_width="match_parent"
+        android:id="@+id/bookTitle"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BOOK"/>
+        android:padding="8dp"
+        android:layout_gravity="center"
+        tools:text="BOOK TITLE"/>
 
 </LinearLayout>

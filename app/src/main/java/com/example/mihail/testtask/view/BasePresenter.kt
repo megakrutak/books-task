@@ -5,7 +5,6 @@ import androidx.lifecycle.LifecycleObserver
 import androidx.lifecycle.OnLifecycleEvent
 import androidx.lifecycle.ViewModel
 
-
 abstract class BasePresenter<View> : ViewModel(), LifecycleObserver {
 
     var view: View? = null

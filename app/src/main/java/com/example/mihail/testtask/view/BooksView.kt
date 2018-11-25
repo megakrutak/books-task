@@ -4,7 +4,7 @@ import com.example.mihail.testtask.entity.BooksList
 
 interface BooksView {
 
-    fun showBooks(books: BooksList)
+    fun showBooks()
 
     fun showProgress(show: Boolean)
 }

@@ -1,30 +1,29 @@
 package com.example.mihail.testtask.view
 
+import androidx.lifecycle.LiveData
+import androidx.paging.DataSource
+import androidx.paging.LivePagedListBuilder
+import androidx.paging.PagedList
 import com.example.mihail.testtask.data.BooksDataSource
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.async
-import kotlinx.coroutines.launch
-import java.lang.Exception
+import com.example.mihail.testtask.data.BooksPositionalDataSource
+import com.example.mihail.testtask.entity.Book
 
-class BooksPresenter(private val repository: BooksDataSource) : BasePresenter<BooksView>() {
+class BooksPresenter (private val repository: BooksDataSource) : BasePresenter<BooksView>() {
 
-    fun findBooks(query: String) {
-        view?.showProgress(true)
+    fun findBooks(query: String) : LiveData<PagedList<Book>> {
 
-        GlobalScope.launch(Dispatchers.Main) {
-            val job = GlobalScope.async {
-                repository.volumes(query)
-            }
-
-            try {
-                val books = job.await()
-                view?.showProgress(false)
-                view?.showBooks(books)
-            } catch (e: Exception) {
-                throw e
-                // Log.i("books", e.toString())
+        val factory = object : DataSource.Factory<Int, Book>() {
+            override fun create(): DataSource<Int, Book> {
+                return BooksPositionalDataSource(repository, query)
             }
         }
+
+        val config = PagedList.Config.Builder()
+                .setEnablePlaceholders(false)
+                .setInitialLoadSizeHint(10)
+                .setPageSize(10)
+                .build()
+
+        return LivePagedListBuilder(factory, config).build()
     }
 }

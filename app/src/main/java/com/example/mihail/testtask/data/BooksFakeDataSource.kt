@@ -6,7 +6,7 @@ import com.google.gson.Gson
 
 class BooksFakeDataSource(val jsonReader: JsonReader) : BooksDataSource {
 
-    override suspend fun volumes(q: String): BooksList {
+    override suspend fun volumes(q: String, startIndex: Int, maxResults: Int): BooksList {
         return Gson().fromJson<BooksList>(jsonReader.readJsonFile("books.json"), BooksList::class.java)
     }
 
