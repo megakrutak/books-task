@@ -1,6 +1,7 @@
 package com.example.mihail.testtask.view
 
 import android.os.Bundle
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 
@@ -33,5 +34,9 @@ class BooksActivity : AppCompatActivity(), BooksView {
 
     override fun showProgress(show: Boolean) {
 
+    }
+
+    override fun showError(message: String) {
+        Toast.makeText(this, message, Toast.LENGTH_LONG).show()
     }
 }

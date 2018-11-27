@@ -7,4 +7,6 @@ interface BooksView {
     fun showBooks()
 
     fun showProgress(show: Boolean)
+
+    fun showError(message: String)
 }
